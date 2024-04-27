@@ -38,7 +38,7 @@ footer{
     justify-content: center;
     
  gap: 20px;
- flex-direction: row;
+ flex-direction: row-reverse;
  width: max-content;
  align-items: center;
 
