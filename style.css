@@ -29,18 +29,14 @@ footer{
     margin-top: 20px;
     margin-bottom: 20px;
     font-family: Verdana, sans-serif;
-    font-size: 14px;
-
-    
+    font-size: 14px;  
 }
  main{
-    display: flex; 
-    justify-content: center;
-    
- gap: 20px;
- flex-direction: row-reverse;
- width: max-content;
- align-items: center;
- gap: 10px;
+  display: flex; 
+  align-items: center;
+justify-content: center;
+flex-direction: row-reverse;
+width: auto;
+gap: 10px;
 
  }
