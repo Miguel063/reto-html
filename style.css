@@ -41,5 +41,6 @@ footer{
  flex-direction: row-reverse;
  width: max-content;
  align-items: center;
+ gap: 10px;
 
  }
